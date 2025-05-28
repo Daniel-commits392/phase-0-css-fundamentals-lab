@@ -3,3 +3,40 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  font-size: 2em;
+  text-align: center;
+  margin-top: 20px;
+}
+nav {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+img{
+ display: block;
+ margin: auto;
+}
+a {
+  padding: 10px  -5px;
+  background-color:lightseagreen;
+  color:red;
+
+}
+#featured-property {
+  font-size: smaller;
+  text-align: center;
+   width: 800px;
+  margin:  auto;
+  padding: 20px;
+}
+#details{
+  div{
+    float: left;
+    width: 25%;
+    text-align: center;
+    background-color: lightseagreen;
+  }
+  
+
+}
